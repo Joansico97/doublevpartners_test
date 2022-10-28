@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437374817329",
+    "project_id": "directionsapp-baf3e",
+    "storage_bucket": "directionsapp-baf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437374817329:android:f88feb2f3f80f82c537110",
+        "android_client_info": {
+          "package_name": "com.example.prueba_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437374817329-h1nvvc4cd9d6bheevka6470bhjvrqocm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyFIreOdtB1WaPyrgCycrQ4jDLvt8z-Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437374817329-h1nvvc4cd9d6bheevka6470bhjvrqocm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

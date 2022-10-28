@@ -1,0 +1,31 @@
+{
+    "home_page_text" : {
+        "title" : "Usuarios"
+    },
+    "login_page_text" : {
+        "message_text" : "Iniciar sesión",
+        "invitation_text" : "Crear una nueva cuenta",
+        "btn_text" : "Ingresar",
+        "label_text" : "correo electrónico",
+        "hint_text" : "john.doe@email.com",
+        "name_text" : "nombre",
+        "password_text" : "contraseña"
+    },
+    "register_page_text" : {
+        "message_text" : "Regístrese",
+        "invitation_text" : "¿Ya tienes cuenta? Inicia sesión",
+        "btn_text" : "Registrarse",
+        "label_text" : "correo electrónico",
+        "hint_text" : "john.doe@email.com",
+        "name_text" : "nombre",
+        "last_name_text" : "apellido",
+        "password_text" : "contraseña"
+    },
+        "add_address_page_text" : {
+        "message_text" : "Añadir nueva dirección",        
+        "btn_text" : "Añadir dirección",
+        "country_text" : "País",        
+        "city_text" : "Ciudad",
+        "address_text" : "Dirección"
+    }
+}

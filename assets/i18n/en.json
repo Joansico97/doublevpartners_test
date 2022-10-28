@@ -1,0 +1,31 @@
+{
+    "home_page_text" : {
+        "title" : "Users"
+    },
+    "login_page_text" : {
+        "message_text" : "Login",
+        "invitation_text" : "Create a new account",
+        "btn_text" : "Login",
+        "label_text" : "Email",
+        "hint_text" : "john.doe@email.com",
+        "name_text" : "Name",
+        "password_text" : "password"
+    },
+    "register_page_text" : {
+        "message_text" : "Create user",
+        "invitation_text" : "Already have an account? Sign in",
+        "btn_text" : "Register",
+        "label_text" : "Email",
+        "hint_text" : "john.doe@email.com",
+        "name_text" : "Name",
+        "last_name_text" : "Last name",
+        "password_text" : "password"
+    },
+    "add_address_page_text" : {
+        "message_text" : "Add new address",        
+        "btn_text" : "Add address",
+        "country_text" : "Country",        
+        "city_text" : "City",
+        "address_text" : "Address"
+    }
+}
